@@ -4,3 +4,5 @@ I like to work with paper, code and electricity. These days it's mostly paper, a
 
 [Teleoke]([http://a.com](https://www.youtube.com/channel/UCl-Eon1rCSe8nbZhyuSwtGw/featured))
 Karaoke prompter studies by Shin Chan and Gladys. Exploring the karaoke as teleprompter and a lot of singing.
+
+[Weather Report](https://regaladys.github.io/weather-report/)
